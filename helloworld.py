@@ -4,7 +4,7 @@ import streamlit as st
 
 st.title('History of Computer!')
 st.write("""History of Computer! 
-	_This is some really cool stuff._  
+_This is some really cool stuff._  
 _One of the earliest and most well-known devices was an abacus. Then in 1822, the father of computers, 
 Charles Babbage began developing what would be the first mechanical computer. 
 And then in 1833 he actually designed an Analytical Engine which was a general-purpose computer.""")
