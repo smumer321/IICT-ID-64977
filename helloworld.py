@@ -8,7 +8,6 @@ _This is some really cool stuff._
 _One of the earliest and most well-known devices was an abacus. Then in 1822, the father of computers, 
 Charles Babbage began developing what would be the first mechanical computer. 
 And then in 1833 he actually designed an Analytical Engine which was a general-purpose computer.""")
-.""")
 st.image('surprise.gif')
 st.markdown("""# About adding Headings
 To add headers in your webpage, simply use the '#' character. Using multiple 
